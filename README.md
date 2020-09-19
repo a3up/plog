@@ -30,11 +30,11 @@ At the end of this course, students must be able to:
 SICStus Prolog
 
 ### Literature
-Sterling, Leon; The Art of Prolog. ISBN: 0-262-69163-9
-Marriot, Kim; Programming with constraints. ISBN: 0-262-13341-5
-Clocksin, W. F.; Programming in prolog. ISBN: 0-387-58350-5
+- Sterling, Leon; The Art of Prolog. ISBN: 0-262-69163-9
+- Marriot, Kim; Programming with constraints. ISBN: 0-262-13341-5
+- Clocksin, W. F.; Programming in prolog. ISBN: 0-387-58350-5
 ###### Complementary
-Torres, Delfim Fernando Marado; Introdução à programação em lógica. ISBN: 972-8021-93-3
-Bratko, Ivan; Prolog programming for artificial intelligence. ISBN: 0-201-40375-7
-O.Keefe, Richard A.; The craft of Prolog. ISBN: 0-262-15039-5
-Stuart Russell, Peter Norvig; Artificial intelligence. ISBN: 978-0-13-207148-2
+- Torres, Delfim Fernando Marado; Introdução à programação em lógica. ISBN: 972-8021-93-3
+- Bratko, Ivan; Prolog programming for artificial intelligence. ISBN: 0-201-40375-7
+- O.Keefe, Richard A.; The craft of Prolog. ISBN: 0-262-15039-5
+- Stuart Russell, Peter Norvig; Artificial intelligence. ISBN: 978-0-13-207148-2
