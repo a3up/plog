@@ -27,7 +27,7 @@ At the end of this course, students must be able to:
 - Constraint logic programming (CLP). Search control. Variable and value ordering. Modelling problems in CLP. Constraint programming using SICStus Prolog.
 
 ### Software
-SICStus Prolog
+- SICStus Prolog
 
 ### Literature
 - Sterling, Leon; The Art of Prolog. ISBN: 0-262-69163-9
