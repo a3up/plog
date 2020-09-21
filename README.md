@@ -5,35 +5,70 @@ The course focuses on first-order logic programming. On the practical side the P
 
 ### Learning Outcomes and Competences
 At the end of this course, students must be able to:
-- Identify classes of problems where Logic Programming (and with Constraints) is particularly relevant.
+- Identify classes of problems where (Constraint) Logic Programming is particularly relevant.
 - Apply Prolog programming and constraint logic programming techniques.
 - Build full Prolog applications, with possible connections to other programming languages.
 
 ### Program
 ###### Foundations of Logic Programming
-- Propositional logic. Predicate lógic. Inference rules. Horn clauses. Unification. Resolution. Conjunctive normal form.
-- The logic programming paradigm. Origins of Prolog.
+- Predicate logic
+- Inference rules
+- Horn clauses
+- Unification
+- Resolution
+- Conjunctive normal form
+- Origins of Prolog
 ###### Logic Programming
-- Clauses. Predicates. Facts. Queries. Rules. Logic variables. Instantiation.
-- Logic programming and databases. Recursion. Lists. Trees. Symbolic expressions.
-- Computation model of a logic program. The unification algorithm. Abstract interpreter. Traces. Search trees. Negation.
+- Clauses, predicates and facts
+- Queries
+- Rules
+- Logic variables
+- Instantiation
+- Logic programming and databases
+- Recursion
+- Lists and trees
+- Symbolic expressions
+- Computation model of a logic program
+- The unification algorithm
+- Abstract interpreter
+- Traces
+- Search trees
+- Negation
 ###### The Prolog Language
-- Execution model. Backtracking. Rule and goal order. Termination.
-- Arithmetic. Iteration. Structure inspection. Meta-logical predicates. Control: cuts and negation. Extra-logical predicates.
+- Execution model
+- Backtracking
+- Rule and goal order
+- Termination
+- Arithmetic
+- Iteration
+- Structure inspection
+- Meta-logical predicates
+- Control: cuts and negation
+- Extra-logical predicates
 ###### Advanced Prolog Programming Techniques
-- Non-deterministic programming. Incomplete data structures. Meta-interpreters. Search techniques.
+- Non-deterministic programming
+- Incomplete data structures
+- Meta-interpreters
+- Search techniques
 ###### Constraint Logic Programming
-- Constraints. Constraint satisfaction. Constraints in finite domains.
-- Constraint logic programming (CLP). Search control. Variable and value ordering. Modelling problems in CLP. Constraint programming using SICStus Prolog.
+- Constraints
+- Constraint satisfaction
+- Constraints in finite domains.
+- Constraint logic programming (CLP)
+- Search control
+- Variable and value ordering
+- Modelling problems in CLP
+- Constraint programming using SICStus Prolog
 
 ### Software
-SICStus Prolog
+[SICStus Prolog](https://sicstus.sics.se/)
 
 ### Literature
 - Sterling, Leon; The Art of Prolog. ISBN: 0-262-69163-9
 - Marriot, Kim; Programming with constraints. ISBN: 0-262-13341-5
 - Clocksin, W. F.; Programming in prolog. ISBN: 0-387-58350-5
 ###### Complementary
+- Christopher Hogger, Essentials of logic programming. ISBN:0-19-853832-4
 - Torres, Delfim Fernando Marado; Introdução à programação em lógica. ISBN: 972-8021-93-3
 - Bratko, Ivan; Prolog programming for artificial intelligence. ISBN: 0-201-40375-7
 - O.Keefe, Richard A.; The craft of Prolog. ISBN: 0-262-15039-5
