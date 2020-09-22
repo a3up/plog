@@ -1,14 +1,3 @@
-### Objectives
-The Logic Programming paradigm is a declarative approach to programming, based on formal reasoning processes, which is more appropriate to address some types of problems. Constraint logic programming allows addressing constraint satisfaction and optimization problems by modeling them in a straightforward and elegant fashion.  
-Aims: To get acquainted with the Logic Programming and Constraint Programming paradigms. To develop skills for abstract reasoning and declarative problem representation.  
-The course focuses on first-order logic programming. On the practical side the Prolog programming language is explored. Additionally, constraint logic programming is also introduced, and several application examples are provided.
-
-### Learning Outcomes and Competences
-At the end of this course, students must be able to:
-- Identify classes of problems where (Constraint) Logic Programming is particularly relevant.
-- Apply Prolog programming and constraint logic programming techniques.
-- Build full Prolog applications, with possible connections to other programming languages.
-
 ### Program
 ###### Foundations of Logic Programming
 - Predicate logic
@@ -59,6 +48,17 @@ At the end of this course, students must be able to:
 - Variable and value ordering
 - Modelling problems in CLP
 - Constraint programming using SICStus Prolog
+
+### Objectives
+The Logic Programming paradigm is a declarative approach to programming, based on formal reasoning processes, which is more appropriate to address some types of problems. Constraint logic programming allows addressing constraint satisfaction and optimization problems by modeling them in a straightforward and elegant fashion.  
+Aims: To get acquainted with the Logic Programming and Constraint Programming paradigms. To develop skills for abstract reasoning and declarative problem representation.  
+The course focuses on first-order logic programming. On the practical side the Prolog programming language is explored. Additionally, constraint logic programming is also introduced, and several application examples are provided.
+
+### Learning Outcomes and Competences
+At the end of this course, students must be able to:
+- Identify classes of problems where (Constraint) Logic Programming is particularly relevant.
+- Apply Prolog programming and constraint logic programming techniques.
+- Build full Prolog applications, with possible connections to other programming languages.
 
 ### Software
 [SICStus Prolog](https://sicstus.sics.se/)
