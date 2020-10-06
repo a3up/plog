@@ -9,7 +9,7 @@ factorial(N,F) :-
 	F is N * FM.
 
 % -----------------------------------------------
-%             fibonacci(Number, Result)
+%            fibonacci(Number, Result)
 % -----------------------------------------------
 fibonacci(0,1).
 fibonacci(1,1).
